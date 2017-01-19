@@ -1,0 +1,932 @@
+{
+  "status": "OK", 
+  "response": {
+    "docs": [
+      {
+        "type_of_material": "News", 
+        "blog": [], 
+        "news_desk": "Culture", 
+        "lead_paragraph": "The president invited in artists and sought others out, from novelists to rappers to musicians to actors.", 
+        "headline": {
+          "main": "Obama Understood the Power of Art. And He Wanted You to Get It, Too.", 
+          "print_headline": "The Cultural Commander"
+        }, 
+        "abstract": null, 
+        "print_page": "1", 
+        "word_count": "1961", 
+        "_id": "587ff47195d0e0392607b7b0", 
+        "snippet": "The president invited in artists and sought others out, from novelists to rappers to musicians to actors....", 
+        "source": "The New York Times", 
+        "slideshow_credits": null, 
+        "web_url": "http://www.nytimes.com/2017/01/18/arts/president-obama-pop-culture.html", 
+        "multimedia": [
+          {
+            "subtype": "wide", 
+            "url": "images/2017/01/19/arts/19OBAMA-WESLEYJP3/19OBAMA-WESLEYJP3-thumbWide.jpg", 
+            "height": 126, 
+            "width": 190, 
+            "legacy": {
+              "wide": "images/2017/01/19/arts/19OBAMA-WESLEYJP3/19OBAMA-WESLEYJP3-thumbWide.jpg", 
+              "wideheight": "126", 
+              "widewidth": "190"
+            }, 
+            "type": "image"
+          }, 
+          {
+            "subtype": "xlarge", 
+            "url": "images/2017/01/19/arts/19OBAMA-WESLEYJP3/19OBAMA-WESLEYJP3-articleLarge.jpg", 
+            "height": 400, 
+            "width": 600, 
+            "legacy": {
+              "xlargewidth": "600", 
+              "xlarge": "images/2017/01/19/arts/19OBAMA-WESLEYJP3/19OBAMA-WESLEYJP3-articleLarge.jpg", 
+              "xlargeheight": "400"
+            }, 
+            "type": "image"
+          }, 
+          {
+            "subtype": "thumbnail", 
+            "url": "images/2017/01/19/arts/19OBAMA-WESLEYJP3/19OBAMA-WESLEYJP3-thumbStandard.jpg", 
+            "height": 75, 
+            "width": 75, 
+            "legacy": {
+              "thumbnailheight": "75", 
+              "thumbnail": "images/2017/01/19/arts/19OBAMA-WESLEYJP3/19OBAMA-WESLEYJP3-thumbStandard.jpg", 
+              "thumbnailwidth": "75"
+            }, 
+            "type": "image"
+          }
+        ], 
+        "subsection_name": null, 
+        "keywords": [
+          {
+            "value": "Culture (Arts)", 
+            "is_major": "N", 
+            "rank": "1", 
+            "name": "subject"
+          }, 
+          {
+            "value": "Obama, Barack", 
+            "is_major": "N", 
+            "rank": "2", 
+            "name": "persons"
+          }, 
+          {
+            "value": "Obama, Michelle", 
+            "is_major": "N", 
+            "rank": "3", 
+            "name": "persons"
+          }, 
+          {
+            "value": "Presidents and Presidency (US)", 
+            "is_major": "N", 
+            "rank": "4", 
+            "name": "subject"
+          }
+        ], 
+        "byline": {
+          "person": [
+            {
+              "organization": "", 
+              "role": "reported", 
+              "rank": 1, 
+              "firstname": "Wesley", 
+              "lastname": "MORRIS"
+            }
+          ], 
+          "original": "By WESLEY MORRIS"
+        }, 
+        "document_type": "article", 
+        "pub_date": "2017-01-18T23:04:07+0000", 
+        "section_name": "Arts"
+      }, 
+      {
+        "type_of_material": "Op-Ed", 
+        "blog": [], 
+        "news_desk": "OpEd", 
+        "lead_paragraph": "The people who stand to lose most are Trump supporters.", 
+        "headline": {
+          "main": "Erasing Obama", 
+          "kicker": "Op-Ed | Timothy Egan", 
+          "print_headline": "Erasing President Obama", 
+          "content_kicker": "Contributing Op-Ed Writer"
+        }, 
+        "abstract": null, 
+        "print_page": "19", 
+        "word_count": "849", 
+        "_id": "586f537795d0e0392607948b", 
+        "snippet": "The people who stand to lose most are Trump supporters....", 
+        "source": "The New York Times", 
+        "slideshow_credits": null, 
+        "web_url": "http://www.nytimes.com/2017/01/06/opinion/erasing-obama.html", 
+        "multimedia": [
+          {
+            "subtype": "wide", 
+            "url": "images/2017/01/06/opinion/06eganWeb/06eganWeb-thumbWide.jpg", 
+            "height": 126, 
+            "width": 190, 
+            "legacy": {
+              "wide": "images/2017/01/06/opinion/06eganWeb/06eganWeb-thumbWide.jpg", 
+              "wideheight": "126", 
+              "widewidth": "190"
+            }, 
+            "type": "image"
+          }, 
+          {
+            "subtype": "xlarge", 
+            "url": "images/2017/01/06/opinion/06eganWeb/06eganWeb-articleLarge.jpg", 
+            "height": 422, 
+            "width": 600, 
+            "legacy": {
+              "xlargewidth": "600", 
+              "xlarge": "images/2017/01/06/opinion/06eganWeb/06eganWeb-articleLarge.jpg", 
+              "xlargeheight": "422"
+            }, 
+            "type": "image"
+          }, 
+          {
+            "subtype": "thumbnail", 
+            "url": "images/2017/01/06/opinion/06eganWeb/06eganWeb-thumbStandard.jpg", 
+            "height": 75, 
+            "width": 75, 
+            "legacy": {
+              "thumbnailheight": "75", 
+              "thumbnail": "images/2017/01/06/opinion/06eganWeb/06eganWeb-thumbStandard.jpg", 
+              "thumbnailwidth": "75"
+            }, 
+            "type": "image"
+          }
+        ], 
+        "subsection_name": null, 
+        "keywords": [
+          {
+            "value": "United States Politics and Government", 
+            "is_major": "N", 
+            "rank": "1", 
+            "name": "subject"
+          }, 
+          {
+            "value": "Presidents and Presidency (US)", 
+            "is_major": "N", 
+            "rank": "2", 
+            "name": "subject"
+          }, 
+          {
+            "value": "Obama, Barack", 
+            "is_major": "N", 
+            "rank": "3", 
+            "name": "persons"
+          }, 
+          {
+            "value": "Trump, Donald J", 
+            "is_major": "N", 
+            "rank": "4", 
+            "name": "persons"
+          }
+        ], 
+        "byline": {
+          "person": [
+            {
+              "organization": "", 
+              "role": "reported", 
+              "rank": 1, 
+              "firstname": "Timothy", 
+              "lastname": "EGAN"
+            }
+          ], 
+          "original": "By TIMOTHY EGAN"
+        }, 
+        "document_type": "article", 
+        "pub_date": "2017-01-06T08:21:02+0000", 
+        "section_name": "Opinion"
+      }, 
+      {
+        "type_of_material": "Video", 
+        "blog": [], 
+        "news_desk": "U.S. / Politics", 
+        "lead_paragraph": "President Obama addressed a wide range of issues, including Chelsea Manning and the Israeli-Palestinian conflict during his last meeting with the White House press corps.", 
+        "headline": {
+          "main": "Obama Meets the Press One Last Time"
+        }, 
+        "abstract": null, 
+        "print_page": null, 
+        "word_count": "25", 
+        "_id": "587ff2ce95d0e0392607b7a7", 
+        "snippet": "President Obama addressed a wide range of issues, including Chelsea Manning and the Israeli-Palestinian conflict during his last meeting with the White House press corps....", 
+        "source": "Reuters", 
+        "slideshow_credits": null, 
+        "web_url": "http://www.nytimes.com/video/us/politics/100000004878758/obama-meets-the-press-one-last-time.html", 
+        "multimedia": [
+          {
+            "subtype": "wide", 
+            "url": "images/2017/01/19/us/19obama-top/19obama-transcript-thumbWide.jpg", 
+            "height": 126, 
+            "width": 190, 
+            "legacy": {
+              "wide": "images/2017/01/19/us/19obama-top/19obama-transcript-thumbWide.jpg", 
+              "wideheight": "126", 
+              "widewidth": "190"
+            }, 
+            "type": "image"
+          }, 
+          {
+            "subtype": "xlarge", 
+            "url": "images/2017/01/19/us/19obama-top/19obama-transcript-articleLarge.jpg", 
+            "height": 400, 
+            "width": 600, 
+            "legacy": {
+              "xlargewidth": "600", 
+              "xlarge": "images/2017/01/19/us/19obama-top/19obama-transcript-articleLarge.jpg", 
+              "xlargeheight": "400"
+            }, 
+            "type": "image"
+          }, 
+          {
+            "subtype": "thumbnail", 
+            "url": "images/2017/01/19/us/19obama-top/19obama-transcript-thumbStandard.jpg", 
+            "height": 75, 
+            "width": 75, 
+            "legacy": {
+              "thumbnailheight": "75", 
+              "thumbnail": "images/2017/01/19/us/19obama-top/19obama-transcript-thumbStandard.jpg", 
+              "thumbnailwidth": "75"
+            }, 
+            "type": "image"
+          }
+        ], 
+        "subsection_name": "Politics", 
+        "keywords": [
+          {
+            "value": "Obama, Barack", 
+            "is_major": "N", 
+            "rank": "1", 
+            "name": "persons"
+          }
+        ], 
+        "byline": {
+          "person": [], 
+          "original": "By REUTERS", 
+          "organization": "REUTERS"
+        }, 
+        "document_type": "multimedia", 
+        "pub_date": "2017-01-18T22:56:46+0000", 
+        "section_name": "U.S."
+      }, 
+      {
+        "type_of_material": "News", 
+        "blog": [], 
+        "news_desk": "Sports", 
+        "lead_paragraph": "Mr. Obama celebrated a team that produced one of the more extraordinary sports moments in his time in office, a World Series triumph that ended a 108-year title drought.", 
+        "headline": {
+          "main": "President Obama, a White Sox Fan, Welcomes the Cubs to the White House", 
+          "print_headline": "White Sox Fan Is Happy to Welcome the Cubs to the White House"
+        }, 
+        "abstract": null, 
+        "print_page": "14", 
+        "word_count": "873", 
+        "_id": "587d7b9195d0e0392607b077", 
+        "snippet": "Mr. Obama celebrated a team that produced one of the more extraordinary sports moments in his time in office, a World Series triumph that ended a 108-year title drought....", 
+        "source": "The New York Times", 
+        "slideshow_credits": null, 
+        "web_url": "http://www.nytimes.com/2017/01/16/sports/baseball/president-obama-a-white-sox-fan-welcomes-the-cubs-to-the-white-house.html", 
+        "multimedia": [
+          {
+            "subtype": "wide", 
+            "url": "images/2017/01/17/us/17CUBS/17CUBS-thumbWide.jpg", 
+            "height": 126, 
+            "width": 190, 
+            "legacy": {
+              "wide": "images/2017/01/17/us/17CUBS/17CUBS-thumbWide.jpg", 
+              "wideheight": "126", 
+              "widewidth": "190"
+            }, 
+            "type": "image"
+          }, 
+          {
+            "subtype": "xlarge", 
+            "url": "images/2017/01/17/us/17CUBS/17CUBS-articleLarge.jpg", 
+            "height": 400, 
+            "width": 600, 
+            "legacy": {
+              "xlargewidth": "600", 
+              "xlarge": "images/2017/01/17/us/17CUBS/17CUBS-articleLarge.jpg", 
+              "xlargeheight": "400"
+            }, 
+            "type": "image"
+          }, 
+          {
+            "subtype": "thumbnail", 
+            "url": "images/2017/01/17/us/17CUBS/17CUBS-thumbStandard.jpg", 
+            "height": 75, 
+            "width": 75, 
+            "legacy": {
+              "thumbnailheight": "75", 
+              "thumbnail": "images/2017/01/17/us/17CUBS/17CUBS-thumbStandard.jpg", 
+              "thumbnailwidth": "75"
+            }, 
+            "type": "image"
+          }
+        ], 
+        "subsection_name": "Baseball", 
+        "keywords": [
+          {
+            "value": "Baseball", 
+            "is_major": "N", 
+            "rank": "1", 
+            "name": "subject"
+          }, 
+          {
+            "value": "United States Politics and Government", 
+            "is_major": "N", 
+            "rank": "2", 
+            "name": "subject"
+          }, 
+          {
+            "value": "Chicago Cubs", 
+            "is_major": "N", 
+            "rank": "3", 
+            "name": "organizations"
+          }, 
+          {
+            "value": "Obama, Barack", 
+            "is_major": "N", 
+            "rank": "4", 
+            "name": "persons"
+          }, 
+          {
+            "value": "White House Building (Washington, DC)", 
+            "is_major": "N", 
+            "rank": "5", 
+            "name": "subject"
+          }
+        ], 
+        "byline": {
+          "person": [
+            {
+              "organization": "", 
+              "role": "reported", 
+              "rank": 1, 
+              "firstname": "Noah", 
+              "lastname": "WEILAND"
+            }
+          ], 
+          "original": "By NOAH WEILAND"
+        }, 
+        "document_type": "article", 
+        "pub_date": "2017-01-17T02:03:53+0000", 
+        "section_name": "Sports"
+      }, 
+      {
+        "type_of_material": "News", 
+        "blog": [], 
+        "news_desk": "Magazine", 
+        "lead_paragraph": "Over eight years, through millions of letters, the staff of the White House mailroom read the unfiltered story of a nation.", 
+        "headline": {
+          "main": "To Obama With Love, and Hate, and Desperation", 
+          "kicker": "Feature", 
+          "print_headline": "The Mail Room", 
+          "content_kicker": "Feature"
+        }, 
+        "abstract": null, 
+        "print_page": "30", 
+        "word_count": "8784", 
+        "_id": "587deb3195d0e0392607b151", 
+        "snippet": "Over eight years, through millions of letters, the staff of the White House mailroom read the unfiltered story of a nation....", 
+        "source": "The New York Times", 
+        "slideshow_credits": null, 
+        "web_url": "http://www.nytimes.com/2017/01/17/magazine/what-americans-wrote-to-obama.html", 
+        "multimedia": [
+          {
+            "subtype": "wide", 
+            "url": "images/2017/01/22/magazine/22letters1/22letters1-thumbWide.jpg", 
+            "height": 126, 
+            "width": 190, 
+            "legacy": {
+              "wide": "images/2017/01/22/magazine/22letters1/22letters1-thumbWide.jpg", 
+              "wideheight": "126", 
+              "widewidth": "190"
+            }, 
+            "type": "image"
+          }, 
+          {
+            "subtype": "xlarge", 
+            "url": "images/2017/01/22/magazine/22letters1/22letters1-articleLarge.jpg", 
+            "height": 900, 
+            "width": 600, 
+            "legacy": {
+              "xlargewidth": "600", 
+              "xlarge": "images/2017/01/22/magazine/22letters1/22letters1-articleLarge.jpg", 
+              "xlargeheight": "900"
+            }, 
+            "type": "image"
+          }, 
+          {
+            "subtype": "thumbnail", 
+            "url": "images/2017/01/22/magazine/22letters1/22letters1-thumbStandard.jpg", 
+            "height": 75, 
+            "width": 75, 
+            "legacy": {
+              "thumbnailheight": "75", 
+              "thumbnail": "images/2017/01/22/magazine/22letters1/22letters1-thumbStandard.jpg", 
+              "thumbnailwidth": "75"
+            }, 
+            "type": "image"
+          }
+        ], 
+        "subsection_name": null, 
+        "keywords": [
+          {
+            "value": "Letters", 
+            "is_major": "N", 
+            "rank": "1", 
+            "name": "subject"
+          }, 
+          {
+            "value": "Obama, Barack", 
+            "is_major": "N", 
+            "rank": "3", 
+            "name": "persons"
+          }, 
+          {
+            "value": "United States Politics and Government", 
+            "is_major": "N", 
+            "rank": "4", 
+            "name": "subject"
+          }, 
+          {
+            "value": "Presidents and Presidency (US)", 
+            "is_major": "N", 
+            "rank": "5", 
+            "name": "subject"
+          }, 
+          {
+            "value": "Veterans", 
+            "is_major": "N", 
+            "rank": "6", 
+            "name": "subject"
+          }
+        ], 
+        "byline": {
+          "person": [
+            {
+              "firstname": "Jeanne", 
+              "middlename": "Marie", 
+              "lastname": "LASKAS", 
+              "rank": 1, 
+              "role": "reported", 
+              "organization": ""
+            }
+          ], 
+          "original": "By JEANNE MARIE LASKAS"
+        }, 
+        "document_type": "article", 
+        "pub_date": "2017-01-17T10:00:04+0000", 
+        "section_name": "Magazine"
+      }, 
+      {
+        "type_of_material": "Editorial", 
+        "blog": [], 
+        "news_desk": "Editorial", 
+        "lead_paragraph": "The president\u2019s terrible record on clemency has gotten better, but pardon grants remain abysmally low.", 
+        "headline": {
+          "main": "Mr. Obama, Pick Up Your Pardon Pen", 
+          "kicker": "Editorial", 
+          "print_headline": "Mr. Obama, Pick Up Your Pardon Pen", 
+          "content_kicker": "Editorial"
+        }, 
+        "abstract": null, 
+        "print_page": "20", 
+        "word_count": "647", 
+        "_id": "587d6f3495d0e0392607b066", 
+        "snippet": "The president\u2019s terrible record on clemency has gotten better, but pardon grants remain abysmally low....", 
+        "source": "The New York Times", 
+        "slideshow_credits": null, 
+        "web_url": "http://www.nytimes.com/2017/01/16/opinion/mr-obama-pick-up-your-pardon-pen.html", 
+        "multimedia": [
+          {
+            "subtype": "wide", 
+            "url": "images/2017/01/17/opinion/17TUES1/17TUES1-thumbWide.jpg", 
+            "height": 126, 
+            "width": 190, 
+            "legacy": {
+              "wide": "images/2017/01/17/opinion/17TUES1/17TUES1-thumbWide.jpg", 
+              "wideheight": "126", 
+              "widewidth": "190"
+            }, 
+            "type": "image"
+          }, 
+          {
+            "subtype": "xlarge", 
+            "url": "images/2017/01/17/opinion/17TUES1/17TUES1-articleLarge.jpg", 
+            "height": 400, 
+            "width": 600, 
+            "legacy": {
+              "xlargewidth": "600", 
+              "xlarge": "images/2017/01/17/opinion/17TUES1/17TUES1-articleLarge.jpg", 
+              "xlargeheight": "400"
+            }, 
+            "type": "image"
+          }, 
+          {
+            "subtype": "thumbnail", 
+            "url": "images/2017/01/17/opinion/17TUES1/17TUES1-thumbStandard.jpg", 
+            "height": 75, 
+            "width": 75, 
+            "legacy": {
+              "thumbnailheight": "75", 
+              "thumbnail": "images/2017/01/17/opinion/17TUES1/17TUES1-thumbStandard.jpg", 
+              "thumbnailwidth": "75"
+            }, 
+            "type": "image"
+          }
+        ], 
+        "subsection_name": null, 
+        "keywords": [
+          {
+            "value": "Amnesties, Commutations and Pardons", 
+            "is_major": "N", 
+            "rank": "1", 
+            "name": "subject"
+          }, 
+          {
+            "value": "Obama, Barack", 
+            "is_major": "N", 
+            "rank": "2", 
+            "name": "persons"
+          }, 
+          {
+            "value": "United States Politics and Government", 
+            "is_major": "N", 
+            "rank": "3", 
+            "name": "subject"
+          }
+        ], 
+        "byline": {
+          "person": [], 
+          "original": "By THE EDITORIAL BOARD", 
+          "organization": "THE EDITORIAL BOARD"
+        }, 
+        "document_type": "article", 
+        "pub_date": "2017-01-17T01:11:09+0000", 
+        "section_name": "Opinion"
+      }, 
+      {
+        "type_of_material": "News", 
+        "blog": [], 
+        "news_desk": "Styles", 
+        "lead_paragraph": "No one understood the role of fashion, and the potential uses of its power, better than the first lady.", 
+        "headline": {
+          "main": "What Michelle Obama Wore and Why It Mattered", 
+          "kicker": "Critic's Notebook", 
+          "print_headline": "How Clothes Defined Her", 
+          "content_kicker": "Critic's Notebook"
+        }, 
+        "abstract": null, 
+        "print_page": "1", 
+        "word_count": "2089", 
+        "_id": "587a04c095d0e0392607ab73", 
+        "snippet": "No one understood the role of fashion, and the potential uses of its power, better than the first lady....", 
+        "source": "The New York Times", 
+        "slideshow_credits": null, 
+        "web_url": "http://www.nytimes.com/2017/01/14/fashion/michelle-obama-first-lady-fashion.html", 
+        "multimedia": [
+          {
+            "subtype": "wide", 
+            "url": "images/2017/01/15/fashion/15MICHELLE-SS-slide-8MDL/15MICHELLE-SS-slide-8MDL-thumbWide.jpg", 
+            "height": 126, 
+            "width": 190, 
+            "legacy": {
+              "wide": "images/2017/01/15/fashion/15MICHELLE-SS-slide-8MDL/15MICHELLE-SS-slide-8MDL-thumbWide.jpg", 
+              "wideheight": "126", 
+              "widewidth": "190"
+            }, 
+            "type": "image"
+          }, 
+          {
+            "subtype": "xlarge", 
+            "url": "images/2017/01/15/fashion/15MICHELLE-SS-slide-8MDL/15MICHELLE-SS-slide-8MDL-articleLarge.jpg", 
+            "height": 1262, 
+            "width": 600, 
+            "legacy": {
+              "xlargewidth": "600", 
+              "xlarge": "images/2017/01/15/fashion/15MICHELLE-SS-slide-8MDL/15MICHELLE-SS-slide-8MDL-articleLarge.jpg", 
+              "xlargeheight": "1262"
+            }, 
+            "type": "image"
+          }, 
+          {
+            "subtype": "thumbnail", 
+            "url": "images/2017/01/15/fashion/15MICHELLE-SS-slide-8MDL/15MICHELLE-SS-slide-8MDL-thumbStandard.jpg", 
+            "height": 75, 
+            "width": 75, 
+            "legacy": {
+              "thumbnailheight": "75", 
+              "thumbnail": "images/2017/01/15/fashion/15MICHELLE-SS-slide-8MDL/15MICHELLE-SS-slide-8MDL-thumbStandard.jpg", 
+              "thumbnailwidth": "75"
+            }, 
+            "type": "image"
+          }
+        ], 
+        "subsection_name": null, 
+        "keywords": [
+          {
+            "value": "Obama, Michelle", 
+            "is_major": "N", 
+            "rank": "1", 
+            "name": "persons"
+          }, 
+          {
+            "value": "Fashion and Apparel", 
+            "is_major": "N", 
+            "rank": "2", 
+            "name": "subject"
+          }, 
+          {
+            "value": "United States Politics and Government", 
+            "is_major": "N", 
+            "rank": "3", 
+            "name": "subject"
+          }
+        ], 
+        "byline": {
+          "contributor": "", 
+          "person": [
+            {
+              "organization": "", 
+              "role": "reported", 
+              "rank": 1, 
+              "firstname": "Vanessa", 
+              "lastname": "FRIEDMAN"
+            }
+          ], 
+          "original": "By VANESSA FRIEDMAN"
+        }, 
+        "document_type": "article", 
+        "pub_date": "2017-01-14T11:00:05+0000", 
+        "section_name": "Fashion & Style"
+      }, 
+      {
+        "type_of_material": "News", 
+        "blog": [], 
+        "news_desk": "National", 
+        "lead_paragraph": "At his final news conference in the White House, the president was asked about his future and his decision to commute the sentence of Chelsea Manning.", 
+        "headline": {
+          "main": "Obama Vows to Speak Out on \u2018Core Values\u2019 After Office"
+        }, 
+        "abstract": null, 
+        "print_page": null, 
+        "word_count": "909", 
+        "_id": "587fa2fe95d0e0392607b666", 
+        "snippet": "At his final news conference in the White House, the president was asked about his future and his decision to commute the sentence of Chelsea Manning....", 
+        "source": "The New York Times", 
+        "slideshow_credits": null, 
+        "web_url": "http://www.nytimes.com/2017/01/18/us/politics/obama-last-news-conference-as-president.html", 
+        "multimedia": [], 
+        "subsection_name": "Politics", 
+        "keywords": [
+          {
+            "value": "Obama, Barack", 
+            "is_major": "N", 
+            "rank": "1", 
+            "name": "persons"
+          }, 
+          {
+            "value": "News and News Media", 
+            "is_major": "N", 
+            "rank": "2", 
+            "name": "subject"
+          }, 
+          {
+            "value": "White House Building (Washington, DC)", 
+            "is_major": "N", 
+            "rank": "3", 
+            "name": "subject"
+          }, 
+          {
+            "value": "United States Politics and Government", 
+            "is_major": "N", 
+            "rank": "4", 
+            "name": "subject"
+          }
+        ], 
+        "byline": {
+          "person": [
+            {
+              "organization": "", 
+              "role": "reported", 
+              "rank": 1, 
+              "firstname": "Michael"
+            }
+          ], 
+          "original": "By MICHAEL D. SHEAR and PETER BAKER"
+        }, 
+        "document_type": "article", 
+        "pub_date": "2017-01-18T17:16:43+0000", 
+        "section_name": "U.S."
+      }, 
+      {
+        "type_of_material": "Op-Ed", 
+        "blog": [], 
+        "news_desk": "OpEd", 
+        "lead_paragraph": "A party that controls the White House for two terms typically loses political power elsewhere.", 
+        "headline": {
+          "main": "Obama-Era Political Losses, the Real Story", 
+          "kicker": "Op-Ed Columnist", 
+          "content_kicker": "Op-Ed Columnist"
+        }, 
+        "abstract": null, 
+        "print_page": null, 
+        "word_count": "372", 
+        "_id": "587cc6f995d0e0392607af2d", 
+        "snippet": "A party that controls the White House for two terms typically loses political power elsewhere....", 
+        "source": "The New York Times", 
+        "slideshow_credits": null, 
+        "web_url": "http://www.nytimes.com/2017/01/16/opinion/a-new-take-on-democrats-obama-era-losses.html", 
+        "multimedia": [], 
+        "subsection_name": null, 
+        "keywords": [
+          {
+            "value": "Presidential Election of 2016", 
+            "is_major": "N", 
+            "rank": "1", 
+            "name": "subject"
+          }, 
+          {
+            "value": "Democratic Party", 
+            "is_major": "N", 
+            "rank": "2", 
+            "name": "organizations"
+          }, 
+          {
+            "value": "Obama, Barack", 
+            "is_major": "N", 
+            "rank": "3", 
+            "name": "persons"
+          }
+        ], 
+        "byline": {
+          "person": [
+            {
+              "organization": "", 
+              "role": "reported", 
+              "rank": 1, 
+              "firstname": "David", 
+              "lastname": "LEONHARDT"
+            }
+          ], 
+          "original": "By DAVID LEONHARDT"
+        }, 
+        "document_type": "article", 
+        "pub_date": "2017-01-16T13:13:23+0000", 
+        "section_name": "Opinion"
+      }, 
+      {
+        "type_of_material": "News", 
+        "blog": [], 
+        "news_desk": "National", 
+        "lead_paragraph": "The president\u2019s confidence was etched with frustration over economic inequity, racism and closed-mindedness that he said imperiled the nation\u2019s democratic fabric.", 
+        "headline": {
+          "main": "Obama, Saying Goodbye, Warns of Threats to National Unity", 
+          "print_headline": "Obama\u2019s Farewell to the Nation: \u2018Yes, We Did\u2019"
+        }, 
+        "abstract": null, 
+        "print_page": "1", 
+        "word_count": "1265", 
+        "_id": "5875c5d195d0e0392607a0bc", 
+        "snippet": "The president\u2019s confidence was etched with frustration over economic inequity, racism and closed-mindedness that he said imperiled the nation\u2019s democratic fabric....", 
+        "source": "The New York Times", 
+        "slideshow_credits": null, 
+        "web_url": "http://www.nytimes.com/2017/01/11/us/obama-farewell-address-president.html", 
+        "multimedia": [
+          {
+            "subtype": "wide", 
+            "url": "images/2017/01/11/us/politics/11altOBAMA/11altOBAMA-thumbWide.jpg", 
+            "height": 126, 
+            "width": 190, 
+            "legacy": {
+              "wide": "images/2017/01/11/us/politics/11altOBAMA/11altOBAMA-thumbWide.jpg", 
+              "wideheight": "126", 
+              "widewidth": "190"
+            }, 
+            "type": "image"
+          }, 
+          {
+            "subtype": "xlarge", 
+            "url": "images/2017/01/11/us/politics/11altOBAMA/11altOBAMA-articleLarge.jpg", 
+            "height": 392, 
+            "width": 600, 
+            "legacy": {
+              "xlargewidth": "600", 
+              "xlarge": "images/2017/01/11/us/politics/11altOBAMA/11altOBAMA-articleLarge.jpg", 
+              "xlargeheight": "392"
+            }, 
+            "type": "image"
+          }, 
+          {
+            "subtype": "thumbnail", 
+            "url": "images/2017/01/11/us/politics/11altOBAMA/11altOBAMA-thumbStandard.jpg", 
+            "height": 75, 
+            "width": 75, 
+            "legacy": {
+              "thumbnailheight": "75", 
+              "thumbnail": "images/2017/01/11/us/politics/11altOBAMA/11altOBAMA-thumbStandard.jpg", 
+              "thumbnailwidth": "75"
+            }, 
+            "type": "image"
+          }
+        ], 
+        "subsection_name": null, 
+        "keywords": [
+          {
+            "value": "United States Politics and Government", 
+            "is_major": "N", 
+            "rank": "1", 
+            "name": "subject"
+          }, 
+          {
+            "value": "Obama, Barack", 
+            "is_major": "N", 
+            "rank": "2", 
+            "name": "persons"
+          }, 
+          {
+            "value": "Chicago (Ill)", 
+            "is_major": "N", 
+            "rank": "3", 
+            "name": "glocations"
+          }
+        ], 
+        "byline": {
+          "person": [
+            {
+              "organization": "", 
+              "role": "reported", 
+              "rank": 1, 
+              "firstname": "Mark", 
+              "lastname": "LANDLER"
+            }, 
+            {
+              "organization": "", 
+              "role": "reported", 
+              "rank": 2, 
+              "firstname": "Julie", 
+              "lastname": "BOSMAN"
+            }
+          ], 
+          "original": "By MARK LANDLER and JULIE BOSMAN"
+        }, 
+        "document_type": "article", 
+        "pub_date": "2017-01-11T05:42:34+0000", 
+        "section_name": "U.S."
+      }
+    ], 
+    "facets": {
+      "source": {
+        "terms": [
+          {
+            "count": 5158, 
+            "term": "The New York Times"
+          }, 
+          {
+            "count": 4760, 
+            "term": "Reuters"
+          }, 
+          {
+            "count": 4261, 
+            "term": "AP"
+          }
+        ]
+      }, 
+      "day_of_week": {
+        "terms": [
+          {
+            "count": 2566, 
+            "term": "Tuesday"
+          }, 
+          {
+            "count": 2508, 
+            "term": "Friday"
+          }, 
+          {
+            "count": 2497, 
+            "term": "Wednesday"
+          }, 
+          {
+            "count": 2458, 
+            "term": "Thursday"
+          }, 
+          {
+            "count": 1947, 
+            "term": "Monday"
+          }
+        ]
+      }
+    }, 
+    "meta": {
+      "hits": 14179, 
+      "offset": 0, 
+      "time": 30
+    }
+  }, 
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}
