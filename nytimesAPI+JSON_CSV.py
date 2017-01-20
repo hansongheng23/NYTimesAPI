@@ -1,6 +1,7 @@
 import csv
 import json
 import sys
+import pandas as pd
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
@@ -21,3 +22,5 @@ def write_csv(data, filename):  #this function is used to transfer .json file in
 data = json.loads(open('results.json').read()) #read data from .json file
 data = data['response']['docs']   #this is used to specify that we are converting contents under 'docs' into .csv file
 write_csv(data,'results.csv')  #write data into .csv file
+form = pd.read_csv("results.csv")
+print form
